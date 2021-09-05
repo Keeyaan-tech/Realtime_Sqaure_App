@@ -1,0 +1,34 @@
+.heading {
+    font-size: 23px;
+    width: 90%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+    border-radius: 10px;
+}
+
+.NOTE {
+    font-size: 15px;
+    color: black;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0px;
+    width: 100%;
+    font-size: 18px;
+    text-align: center;
+    background-color: teal;
+    line-height: 1.5;
+}
+
+body {
+    font-family: 'Rampart One', cursive;
+    background-color: palegreen;
+}
+
+canvas {
+    border: 5px solid white;
+    background-color: grey;
+    box-shadow: 5px 5px 5px grey;
+}
